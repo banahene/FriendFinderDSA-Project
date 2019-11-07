@@ -1,0 +1,7 @@
+Name=Enam Kyei, DOB=2001-02-07, Hostel=Dufie, FavSpot=yolo, Major=CS, YearGroup=Junior, Bio=oloy, Sex=Male, Picture=null, Interest=Music, Username=ekyei, Password=eeeeeeeee, [dummy]
+Name=Anna, DOB=2018-12-05, Hostel=Charlotte, FavSpot=yoyo, Major=MIS, YearGroup=Sophomore, Bio=oyoy, Sex=Female, Picture=null, Interest=Art, Username=anna, Password=aaaaaaaaa, [dummy]
+Name=Theresa, DOB=2001-07-02, Hostel=Dufie, FavSpot=yolo, Major=CS, YearGroup=Junior, Bio=oloy, Sex=Female, Picture=null, Interest=Music, Username=tHeres, Password=ttttttttt, [dummy]
+Name=Enam Kyei, DOB=2001-02-07, Hostel=Dufie, FavSpot=yolo, Major=CS, YearGroup=Junior, Bio=oloy, Sex=Male, Picture=null, Interest=Music, Username=ekyei, Password=eeeeeeeee, [dummy]
+Name=yy, DOB=2019-11-06, Hostel=Masere, FavSpot=school, Major=CS, YearGroup=Sophomore, Bio=nothing, Sex=Male, Picture=null, Interest=Sports, Username=yyy, Password=yyyyyyyy, [dummy]
+Name=Owusu, DOB=2019-11-05, Hostel=Dufie, FavSpot=Akornor, Major=CS, YearGroup=Sophomore, Bio=I like to dance and eat a lot of food, Sex=Male, Picture=null, Interest=Sports, Username=banahene, Password=12345678, [dummy, albert]
+Name=Albert, DOB=1998-11-26, Hostel=Hosanna, FavSpot=My room, Major=CS, YearGroup=Junior, Bio=I like basketball, and tech. I build amazing games. Let's play!, Sex=Male, Picture=null, Interest=Sports, Username=albert, Password=12345678, [dummy, banahene]
